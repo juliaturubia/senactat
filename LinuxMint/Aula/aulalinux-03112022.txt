@@ -1,0 +1,32 @@
+
+  terminal: Ctrl + Alt + T - Bash
+  senac = seu usuário
+  @     = concatenar
+  senac!! nome do computador
+---------------------------------------------------
+  ~     =alias referência ao seu nome
+  $     = referência ao seu usuário sem direito
+  #     =super usuário ---> root: sudo
+---------------------------------------------------
+  sudo - i                      (root)
+  exit                          (sair, atalho Crtl+D)
+  history                       (histórico de comandos)
+     !                          (executar o comando na linha do history)
+  Clear                         (Limpar a tela, atalho Ctrl+L)
+---------------------------------------------------
+   Pedir ajuda no Linux 
+   apt                          (ajuda simples)
+      --help                    (ajuda resumida do comando)
+   man                          (manual do comando
+      Q                         (sair, quit)
+---------------------------------------------------
+   Guia básico Linux           (https://www.guiafoca.org/) PT-BR
+   Referência linha de comando (https://ss64.com/) INGLES-EUA
+ ---------------------------------------------------
+   Comando de diretorios e arquivos
+   git clone                    (clonar repositorio do github)
+   ls                           (listar arquivos e diretorios)
+   ls -lh                       (modo listar detalhado)
+   Cd                           (mudar de diretório)
+   TAB                          (autocompletar)
+   Cd ..                        (voltar)
