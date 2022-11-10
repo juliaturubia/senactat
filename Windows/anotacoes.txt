@@ -1,0 +1,32 @@
+partição - dividir o hd em pedaços - organizar o windows 
+formatar um disco - preparar do disco p uso (preparar para gravar os dados dentro do disco)
+salva no endereço do disco 
+
+pen drive em FAT para configurar a bios
+
+linux - sistema de arquivo - ntfs - não tem limite 
+
+fat - sistema de arquvio mais rápido e compativél com a maioria dos aparelhos 
+limitação 3,9 gb
+
+
+DHCP -
+WINDOWS- ip automatico 
+Processo DHCP - Dora
+LAN - REDE LOCAL 
+endereço mac = endereço fisico - vem gravado da placa de rede 
+Apipa - 
+
+firwall - camada de proteção no pc para não ser invadido (cadeado)
+
+class a - 10. numerodopc.numerodopc.numerodopc até 254 equipamentos 
+
+class b -  172.16                                              
+
+class c - 192.168.x(0 a 255).numero do pc 
+
+brodcast - todos
+
+america latina - nickbr - provedor - 
+
+rede - rua 

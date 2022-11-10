@@ -1,0 +1,4 @@
+ISO - Cd em formato de arquivo
+Licença OM do Windows 
+Problemas - Formatar e reinstalar o windows 
+64 bits = 64 canais de comunicação do processador para placa-mãe
