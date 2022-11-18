@@ -1,0 +1,21 @@
+#Comando de mover (renomear arquivo)
+mv Origem Destino 
+
+#Comando de copiar (salvar como)
+cp -v Origem Destino
+
+
+#Comando de Imprimir mensagem na Tela 
+echo SENAC Tatuapé
+echo SENAC Tatuapé > SENAC.txt
+
+#Comando para listar o conteudo do arquivo 
+cat -n /etec/services (mostra as linhas)
+
+#Comando para listar o conteudo do arquivo,
+#mais eu posso escolher as linhas 
+head -n20 /etc/service (só mostra as 10 primeiras linhas do arquivo)
+tail -n20 /etec/service (final do arquivo)
+
+#desafio do Prof. Ramos 
+cat -n /etc/services | head -n20
